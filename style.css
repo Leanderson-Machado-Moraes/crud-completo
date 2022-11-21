@@ -1,0 +1,17 @@
+.titulo{
+    text-align: center;
+    font-size: 60px;
+}
+body{
+    background: rgb(227,50,220);
+    background: linear-gradient(90deg, rgba(227,50,220,1) 0%, rgba(195,66,227,1) 15%, rgba(227,87,132,1) 35%, rgba(230,67,193,1) 46%, rgba(176,0,181,1) 57%, rgba(250,79,128,1) 70%, rgba(179,0,255,1) 91%);
+}
+.caixa{
+    border: 2px solid black;
+    color: white;
+}
+.inputs{
+    text-align: center;
+    color: white;
+    border: 3px groove rgb(0, 0, 0)
+}
